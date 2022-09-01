@@ -1,18 +1,18 @@
 # HTML-CSS-Git-Challenge-Code-Refactor
-First bootcamp assignment
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Description
+Code refactor challenge that used the scout rule to improve code base.
+
+## Why did I complete this?
+This was a way for me use the skills I learned in class and apply them, this helped to enhance my learning
+and help to bring clarity to a lot of aspects taught in clas.
+
+## What problems did my changes solve?
+The code became cleaner by grouping selectors together which had similar properties and values
+The website became more accessible and optimized for SEO by the addition of sematic elements eg. sections, figure, alt etc.
+
+## What did I learn?
+I learn how to effectivley group selectors. 
+How to make better use of the inspector tool on the brower.
+
+## MIT License - please refer to licence in repository
